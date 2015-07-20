@@ -104,3 +104,18 @@ include::text/provisioning.adoc[]
 include::text/operation/cassandra21x.adoc[]
 include::text/operation/newts.adoc[]
 include::text/operation/jmx-config-generator.adoc[]
+
+// Enhanced Linkd
+include::text/enlinkd/introduction.adoc[]
+
+// Layer 2 Link Discovery
+include::text/enlinkd/layer-2-discovery.adoc[]
+include::text/enlinkd/layer-2/lldp-discovery.adoc[]
+include::text/enlinkd/layer-2/cdp-discovery.adoc[]
+include::text/enlinkd/layer-2/bridge-discovery.adoc[]
+
+// Layer 3 Link Discovery
+include::text/enlinkd/layer-3-discovery.adoc[]
+include::text/enlinkd/layer-3/ospf-discovery.adoc[]
+include::text/enlinkd/layer-3/is-is-discovery.adoc[]
+
